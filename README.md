@@ -1,10 +1,10 @@
 # Tableau-challenge
-Visualizing New York Citi Bike data on a Tableau dashboard
+Visualizing New York Citi Bike data in Tableau
+
+![Citi-Bikes](Images/citibikelogo.png)
 
 #### -- Project Status: [Completed]
 #### -- Project link: https://public.tableau.com/profile/nabeel.sheikh6206#!/vizhome/NYC_16043683651930/Dashboard1
-
-![Citi-Bikes](Images/citibikelogo.png)
 
 ## Project Objective
 The purpose of this project is to analyze the New York City Bike Program, the largest bike sharing program in the United States, for trends that will answer the following questions and help improve the program:
