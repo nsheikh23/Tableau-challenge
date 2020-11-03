@@ -3,6 +3,43 @@ Visualizing New York Citi Bike data on a Tableau dashboard
 
 #### -- Project Status: [Active]
 
+## Project Objective
+The purpose of this project is to analyze the New York City Bike Program, the largest bike sharing program in the United States, for trends that will answer the following questions and help improve the program:
+
+* How many trips have been recorded total during the chosen period?
+
+* What are the peak hours in which bikes are used during summer months?
+
+* What are the peak hours in which bikes are used during winter months?
+
+* What is the gender breakdown of active participants (Male v. Female)?
+
+* How effective has gender outreach been in increasing female ridership over the timespan? 
+
+* What are the top 10 stations in the city for starting a journey?
+
+* What are the top 10 stations in the city for ending a journey?
+
+* What are the bottom 10 stations in the city for starting a journey?
+
+* What are the bottom 10 stations in the city for ending a journey?
+
+### Methods Used
+* Data Visualization
+
+### Technologies
+* Tableau
+
+## Process
+The logic behind the project was to utilize the massive data set provided by New York Citi Bike Program. Each month, the bike data is collected, organized and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage. However, for the purpose of this project only data dating backing to January 2020 through September 2020 is analyzed.
+
+Once the data was extracted into Tableau, data for each month was joined together in a single data source. Thereafter, it was possible to use Tableau to create visualizations.
+
+### Analysis
+It appears in 2020 thus far, there have been at least two phenomenons observed: heavy bike usage and gender gap.
+
+To analyze
+
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
