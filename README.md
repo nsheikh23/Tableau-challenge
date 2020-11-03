@@ -42,9 +42,9 @@ It appears in 2020 thus far, there have been at least two phenomenons observed: 
 To analyze the first phenomenon, let's start with Dashboard 1.
 ![Dashboard 1](Images/Dashboard1.PNG)
 
+The interactive dashboard allows the user to filter by starting station name and month of the year for detailed analysis in each of the views. For the full data set, it can be seen that there were over 14 million trips recorded. Examining the entirety of the data, one observable trend is the higher usage over the weekend, while the lowest on Monday. Which makes sense as most people enjoy their weekends and then return to work on Monday. Furthermore, in the heatmap it can be seen which hours in particular are the peak hours. The weekends show a larger range from 11am to 7pm, as expected. However, within the weekdays too it appears 4pm to 7pm are the traffic hours. On the map, it is possible to see the location of all the stations and distinguish the popular started locations by the blue hue. 
 
-
-
+All these views show the best time to perform any necessary repairs or maintenance work. Moreover, the map clearly illustrates which stations are more popular than others and it may be possible to move bikes from less popular stations to more popular stations to efficiently utilize all the bikes.
 
 ### Before You Begin
 
