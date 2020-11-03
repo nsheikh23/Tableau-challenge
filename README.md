@@ -36,9 +36,13 @@ The logic behind the project was to utilize the massive data set provided by New
 Once the data was extracted into Tableau, data for each month was joined together in a single data source. Thereafter, it was possible to use Tableau to create visualizations.
 
 ### Analysis
-It appears in 2020 thus far, there have been at least two phenomenons observed: heavy bike usage and gender gap.
+It appears in 2020 thus far, there have been at least two phenomenons observed: bike usage variability and gender gap.
 
-To analyze
+To analyze the first phenomenon, a few visuals were generated.
+
+
+
+
 
 ### Before You Begin
 
