@@ -39,7 +39,8 @@ Once the data was extracted into Tableau, data for each month was joined togethe
 ### Analysis
 It appears in 2020 thus far, there have been at least two phenomenons observed: bike usage variability and gender gap.
 
-To analyze the first phenomenon, a few visuals were generated.
+To analyze the first phenomenon, let's start with Dashboard 1.
+![Dashboard 1](Images/Dashboard 1)
 
 
 
